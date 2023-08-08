@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-worker-threads",
+  "version": "1.0.0",
+  "description": "worker threads sharedworker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtvsk/nodejs-worker-threads.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtvsk/nodejs-worker-threads/issues"
+  },
+  "homepage": "https://github.com/rtvsk/nodejs-worker-threads#readme"
+}
